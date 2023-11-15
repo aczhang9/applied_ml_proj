@@ -1,51 +1,50 @@
-Epoch 50: training model accuracy 26.39%
-Epoch 51: training model accuracy 58.91%
-Epoch 52: training model accuracy 70.13%
-Epoch 53: training model accuracy 75.49%
-Epoch 54: training model accuracy 78.49%
-Epoch 55: training model accuracy 80.31%
-Epoch 56: training model accuracy 81.78%
-Epoch 57: training model accuracy 82.76%
-Epoch 58: training model accuracy 84.41%
-Epoch 59: training model accuracy 84.71%
-Epoch 60: training model accuracy 86.45%
-Epoch 61: training model accuracy 86.91%
-Epoch 62: training model accuracy 87.87%
-Epoch 63: training model accuracy 88.33%
-Epoch 64: training model accuracy 89.08%
-Epoch 65: training model accuracy 89.96%
-Epoch 66: training model accuracy 90.52%
-Epoch 67: training model accuracy 91.18%
-Epoch 68: training model accuracy 91.66%
-Epoch 69: training model accuracy 92.31%
-Epoch 70: training model accuracy 92.60%
-Epoch 71: training model accuracy 93.05%
-Epoch 72: training model accuracy 93.45%
-Epoch 73: training model accuracy 94.31%
-Epoch 74: training model accuracy 94.42%
-Epoch 75: training model accuracy 94.54%
-Epoch 76: training model accuracy 95.41%
-Epoch 77: training model accuracy 95.60%
-Epoch 78: training model accuracy 95.26%
-Epoch 79: training model accuracy 95.97%
-Epoch 80: training model accuracy 96.60%
-Epoch 81: training model accuracy 96.87%
-Epoch 82: training model accuracy 97.48%
-Epoch 83: training model accuracy 97.50%
-Epoch 84: training model accuracy 98.01%
-Epoch 85: training model accuracy 98.39%
-Epoch 86: training model accuracy 98.48%
-Epoch 87: training model accuracy 98.14%
-Epoch 88: training model accuracy 98.49%
-Epoch 89: training model accuracy 98.08%
-Epoch 90: training model accuracy 98.54%
-Epoch 91: training model accuracy 98.94%
-Epoch 92: training model accuracy 99.09%
-Epoch 93: training model accuracy 98.96%
-Epoch 94: training model accuracy 99.14%
-Epoch 95: training model accuracy 99.48%
-Epoch 96: training model accuracy 99.55%
-Epoch 97: training model accuracy 99.70%
-Epoch 98: training model accuracy 99.70%
-Epoch 99: training model accuracy 99.89%
-Test accuracy: 85 %
+Epoch 50: training model accuracy 28.65% test accuracy 44.00%
+Epoch 51: training model accuracy 52.55% test accuracy 60.90%
+Epoch 52: training model accuracy 64.94% test accuracy 68.92%
+Epoch 53: training model accuracy 71.46% test accuracy 73.48%
+Epoch 54: training model accuracy 75.18% test accuracy 74.83%
+Epoch 55: training model accuracy 77.72% test accuracy 75.68%
+Epoch 56: training model accuracy 79.62% test accuracy 76.56%
+Epoch 57: training model accuracy 81.49% test accuracy 79.98%
+Epoch 58: training model accuracy 82.80% test accuracy 79.65%
+Epoch 59: training model accuracy 83.74% test accuracy 80.36%
+Epoch 60: training model accuracy 84.32% test accuracy 79.14%
+Epoch 61: training model accuracy 85.82% test accuracy 81.84%
+Epoch 62: training model accuracy 86.41% test accuracy 81.08%
+Epoch 63: training model accuracy 87.01% test accuracy 82.35%
+Epoch 64: training model accuracy 88.10% test accuracy 82.69%
+Epoch 65: training model accuracy 88.76% test accuracy 82.22%
+Epoch 66: training model accuracy 89.42% test accuracy 82.64%
+Epoch 67: training model accuracy 89.67% test accuracy 81.59%
+Epoch 68: training model accuracy 90.94% test accuracy 82.73%
+Epoch 69: training model accuracy 91.00% test accuracy 82.81%
+Epoch 70: training model accuracy 91.35% test accuracy 83.15%
+Epoch 71: training model accuracy 92.25% test accuracy 83.02%
+Epoch 72: training model accuracy 92.51% test accuracy 83.02%
+Epoch 73: training model accuracy 93.31% test accuracy 83.07%
+Epoch 74: training model accuracy 93.62% test accuracy 83.36%
+Epoch 75: training model accuracy 94.01% test accuracy 83.32%
+Epoch 76: training model accuracy 94.24% test accuracy 84.25%
+Epoch 77: training model accuracy 94.34% test accuracy 83.45%
+Epoch 78: training model accuracy 95.55% test accuracy 83.19%
+Epoch 79: training model accuracy 95.40% test accuracy 83.53%
+Epoch 80: training model accuracy 95.46% test accuracy 83.40%
+Epoch 81: training model accuracy 94.71% test accuracy 83.45%
+Epoch 82: training model accuracy 95.89% test accuracy 83.91%
+Epoch 83: training model accuracy 96.43% test accuracy 84.04%
+Epoch 84: training model accuracy 97.34% test accuracy 84.38%
+Epoch 85: training model accuracy 97.31% test accuracy 83.32%
+Epoch 86: training model accuracy 97.15% test accuracy 84.12%
+Epoch 87: training model accuracy 97.72% test accuracy 83.83%
+Epoch 88: training model accuracy 97.71% test accuracy 83.53%
+Epoch 89: training model accuracy 97.64% test accuracy 83.15%
+Epoch 90: training model accuracy 97.55% test accuracy 84.08%
+Epoch 91: training model accuracy 97.26% test accuracy 83.57%
+Epoch 92: training model accuracy 97.59% test accuracy 82.94%
+Epoch 93: training model accuracy 98.05% test accuracy 83.87%
+Epoch 94: training model accuracy 98.79% test accuracy 84.21%
+Epoch 95: training model accuracy 98.43% test accuracy 84.08%
+Epoch 96: training model accuracy 99.10% test accuracy 84.59%
+Epoch 97: training model accuracy 99.53% test accuracy 85.09%
+Epoch 98: training model accuracy 99.68% test accuracy 84.84%
+Epoch 99: training model accuracy 99.68% test accuracy 85.09%
